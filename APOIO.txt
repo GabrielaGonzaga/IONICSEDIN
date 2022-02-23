@@ -1,0 +1,5 @@
+https://ionicframework.com/docs/theming/colors#new-color-creator
+
+https://ionic.io/ionicons
+
+https://ionicframework.com/docs/components
